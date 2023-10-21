@@ -1,3 +1,9 @@
+import react from "react"
+export default function App(){
+ return(
+  <p>hello</p>
+ )
+}
 /* App.js */
 // import React, { Component } from 'react';
 // import CanvasJSReact from '@canvasjs/react-charts';
