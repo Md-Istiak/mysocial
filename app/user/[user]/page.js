@@ -6,7 +6,7 @@ import { FiAlignJustify, FiHome, FiSearch, FiAirplay, FiSidebar} from "react-ico
 import { BsWallet2 } from "react-icons/bs";
 import { RiNftFill } from "react-icons/ri";
 import Dashboard from "./dashboard";
-import Chart from "./chart"
+// import Chart from "./chart"
 
 import NextImage from 'next/image';
 
@@ -184,7 +184,7 @@ export default function App() {
       </CardBody>
       <Divider/>
       <CardFooter className="w-full">
-        <Chart />
+        // <Chart />
       </CardFooter>
     </Card>
     </div>
